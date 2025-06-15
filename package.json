@@ -17,7 +17,7 @@
     "e2e": "TS_TSLINT_ENABLE_WORKSPACE_LIBRARY_EXECUTION=1 mocha ./e2e/tests/**/*.test.js --slow 2000 --timeout 10000"
   },
   "dependencies": {
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.0.2",
     "mock-require": "^3.0.3",
     "vscode-languageserver": "^5.2.1"
   },
